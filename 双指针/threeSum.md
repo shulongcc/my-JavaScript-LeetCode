@@ -1,8 +1,3 @@
-# my-JavaScript-LeetCode
-从零入门算法，开始刷题之路  
-# 调试
-提供了 .vscode 配置文件，在vscode 中选择【小爬虫】图标点击启动程序，即可启动断点调试
-
 # 题目记录
 ## 双指针  
 
@@ -35,3 +30,14 @@
 >提示：
 >* 0 <= nums.length <= 3000
 >* -105 <= nums[i] <= 105
+
+
+```
+/**
+ * @param {number[]} nums
+ * @return {number[][]}
+ */
+var threeSum = function(nums) {
+
+};
+```
